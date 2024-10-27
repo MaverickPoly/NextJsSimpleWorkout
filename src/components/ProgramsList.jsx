@@ -12,9 +12,8 @@ const ProgramsList = ({ programs }) => {
         <div className="container mx-auto px-4 py-8 grid gap-6 
         grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
         {programs.map((program, index) => (
-            <Link href={`/${program.slug}`}>
+            <Link href={`/${program.slug}`} key={index}>
                 <div
-                key={index}
                 className="bg-white rounded-lg cursor-pointer duration-300 shadow-md hover:shadow-lg 
                     transition-transform transform hover:scale-105 
                     w-full max-w-[400px] mx-auto sm:mx-0"
