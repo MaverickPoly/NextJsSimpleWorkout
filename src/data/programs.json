@@ -1,0 +1,1642 @@
+{
+  "programs": [
+    {
+      "title": "Full Body Transformation",
+      "focusPart": "Full Body",
+      "description": "A comprehensive program designed to build strength and endurance across all muscle groups, utilizing bodyweight exercises.",
+      "numberOfDays": 21,
+      "slug": "full_body_transformation",
+      "levelOfDifficulty": "Intermediate",
+      "imageUrl": "https://thumb.tildacdn.com/tild3532-6366-4564-a332-646636323965/-/resize/800x/-/format/webp/ULTIMATE_SUMMER_PHYS.jpg",
+      "workouts": [
+        {
+          "title": "Basic Conditioning",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 5,
+          "slug": "workout_1_basic_conditioning",
+          "exercises": [
+            {
+              "name": "Bodyweight Squats",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Knee Push-Ups",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Standing Calf Raises",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plank",
+              "sets": 3,
+              "reps": 20,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Glute Bridges",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": "Core Focus",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 5,
+          "slug": "workout_2_core_focus",
+          "exercises": [
+            {
+              "name": "Russian Twists",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Side Plank",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Leg Raises",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Mountain Climbers",
+              "sets": 3,
+              "reps": 20,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": "Lower Body Strength",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 5,
+          "slug": "workout_3_lower_body_strength",
+          "exercises": [
+            {
+              "name": "Lunges",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Squats",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Wall Sit",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Single-Leg Glute Bridge",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Step-Ups (on a sturdy chair)",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": "Upper Body Power",
+          "imageUrl": "https://images.pexels.com/photos/1865131/pexels-photo-1865131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 5,
+          "slug": "workout_4_upper_body_power",
+          "exercises": [
+            {
+              "name": "Push-Ups",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Decline Push-Ups (feet elevated)",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Tricep Dips (on a chair)",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plank Shoulder Taps",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Burpees",
+              "sets": 3,
+              "reps": 6,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": "Full Body Circuit",
+          "imageUrl": "https://images.pexels.com/photos/1865131/pexels-photo-1865131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 5,
+          "slug": "workout_5_full_body_circuit",
+          "exercises": [
+            {
+              "name": "High Knees",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Jump Squats",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Inchworms",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "T-Push-Ups",
+              "sets": 3,
+              "reps": 6,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Star Jumps",
+              "sets": 3,
+              "reps": 6,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": "Endurance and Core",
+          "imageUrl": "https://images.pexels.com/photos/1865131/pexels-photo-1865131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 5,
+          "slug": "workout_6_endurance_and_core",
+          "exercises": [
+            {
+              "name": "Burpee Broad Jumps",
+              "sets": 3,
+              "reps": 5,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Flutter Kicks",
+              "sets": 3,
+              "reps": 20,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Skaters",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plank to Downward Dog",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Side Lunges",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": "Strength and Stability",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/outdoor-pull-ups-royalty-free-image-1681208481.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*",
+          "numberOfExercises": 5,
+          "slug": "workout_7_strength_and_stability",
+          "exercises": [
+            {
+              "name": "Wall Sit with Calf Raises",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Single-Leg Squats",
+              "sets": 3,
+              "reps": 5,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Diamond Push-Ups",
+              "sets": 3,
+              "reps": 6,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plank with Arm Lift",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Reverse Lunges",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": "High-Intensity Interval Training (HIIT)",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/outdoor-pull-ups-royalty-free-image-1681208481.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*",
+          "numberOfExercises": 5,
+          "slug": "workout_8_hiit",
+          "exercises": [
+            {
+              "name": "Jumping Jacks",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Burpees",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Lateral Bounds",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "High Knees",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plank Jacks",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": "Full Body Flexibility and Recovery",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/outdoor-pull-ups-royalty-free-image-1681208481.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*",
+          "numberOfExercises": 5,
+          "slug": "workout_9_flexibility_and_recovery",
+          "exercises": [
+            {
+              "name": "Forward Fold Stretch",
+              "sets": 1,
+              "reps": 1,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Seated Hamstring Stretch",
+              "sets": 1,
+              "reps": 1,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Child's Pose",
+              "sets": 1,
+              "reps": 1,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Cat-Cow Stretch",
+              "sets": 1,
+              "reps": 1,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Figure Four Stretch",
+              "sets": 1,
+              "reps": 1,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " Cardio Core Challenge",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/outdoor-pull-ups-royalty-free-image-1681208481.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*",
+          "numberOfExercises": 5,
+          "slug": "workout_10_cardio_core_challenge",
+          "exercises": [
+            {
+              "name": "Burpees",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plank Up-Downs",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Jump Squats",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "V-Ups",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Skater Jumps",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " Strength Endurance",
+          "imageUrl": "https://heavyweightcali.com/wp-content/uploads/2021/11/planche-1-1024x576.jpg.webp",
+          "numberOfExercises": 5,
+          "slug": "workout_11_strength_endurance",
+          "exercises": [
+            {
+              "name": "Push-Up to T-Pose",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Pistol Squats (assisted if necessary)",
+              "sets": 3,
+              "reps": 5,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plank with Shoulder Tap",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Jumping Lunges",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Inchworm to Push-Up",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " Full Body Power",
+          "imageUrl": "https://heavyweightcali.com/wp-content/uploads/2021/11/planche-1-1024x576.jpg.webp",
+          "numberOfExercises": 5,
+          "slug": "workout_12_full_body_power",
+          "exercises": [
+            {
+              "name": "Broad Jumps",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Clapping Push-Ups",
+              "sets": 3,
+              "reps": 5,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Burpee with Tuck Jump",
+              "sets": 3,
+              "reps": 5,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plank to Side Plank",
+              "sets": 3,
+              "reps": 6,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Frog Jumps",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " HIIT Focus",
+          "imageUrl": "https://heavyweightcali.com/wp-content/uploads/2021/11/planche-1-1024x576.jpg.webp",
+          "numberOfExercises": 5,
+          "slug": "workout_13_hiit_focus",
+          "exercises": [
+            {
+              "name": "30-Second Sprint in Place",
+              "sets": 4,
+              "reps": 1,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Push-Up Jacks",
+              "sets": 4,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plank Jacks",
+              "sets": 4,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Squat Jumps",
+              "sets": 4,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "High Knees",
+              "sets": 4,
+              "reps": 20,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " Balance and Coordination",
+          "imageUrl": "https://heavyweightcali.com/wp-content/uploads/2021/11/planche-1-1024x576.jpg.webp",
+          "numberOfExercises": 5,
+          "slug": "workout_14_balance_coordination",
+          "exercises": [
+            {
+              "name": "Single-Leg Deadlift (bodyweight)",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Wall Sit",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Bird Dog",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Side Lunges",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "T-Pose Crunch",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " Core and Flexibility",
+          "imageUrl": "https://caliathletics.com/wp-content/uploads/2018/04/Building-your-body-with-calisthenics--thegem-blog-timeline-large.jpg",
+          "numberOfExercises": 5,
+          "slug": "workout_15_core_flexibility",
+          "exercises": [
+            {
+              "name": "Side Plank",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Leg Raises",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Russian Twists",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Seated Forward Bend",
+              "sets": 1,
+              "reps": 1,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Cat-Cow Stretch",
+              "sets": 1,
+              "reps": 1,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " Active Recovery",
+          "imageUrl": "https://caliathletics.com/wp-content/uploads/2018/04/Building-your-body-with-calisthenics--thegem-blog-timeline-large.jpg",
+          "numberOfExercises": 4,
+          "slug": "workout_16_active_recovery",
+          "exercises": [
+            {
+              "name": "Walking",
+              "sets": 1,
+              "reps": 20,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Foam Rolling",
+              "sets": 1,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Gentle Yoga Flow",
+              "sets": 1,
+              "reps": 1,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Breathing Exercises",
+              "sets": 1,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " Plyometric Challenge",
+          "imageUrl": "https://caliathletics.com/wp-content/uploads/2018/04/Building-your-body-with-calisthenics--thegem-blog-timeline-large.jpg",
+          "numberOfExercises": 5,
+          "slug": "workout_17_plyometric_challenge",
+          "exercises": [
+            {
+              "name": "Burpee Broad Jumps",
+              "sets": 3,
+              "reps": 6,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Lateral Jump Squats",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plyo Push-Ups",
+              "sets": 3,
+              "reps": 5,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "High Knees (fast-paced)",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Tuck Jumps",
+              "sets": 3,
+              "reps": 6,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " Dynamic Stretch and Mobility",
+          "imageUrl": "https://caliathletics.com/wp-content/uploads/2018/04/Building-your-body-with-calisthenics--thegem-blog-timeline-large.jpg",
+          "numberOfExercises": 5,
+          "slug": "workout_18_dynamic_stretch_mobility",
+          "exercises": [
+            {
+              "name": "Arm Circles",
+              "sets": 1,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Leg Swings",
+              "sets": 1,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Hip Circles",
+              "sets": 1,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Torso Twists",
+              "sets": 1,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Dynamic Lunges",
+              "sets": 1,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " Full Body Challenge",
+          "imageUrl": "https://barbend.com/wp-content/uploads/2021/06/Barbend.com-Featured-Image-Calisthenics-Pull-ups.jpg",
+          "numberOfExercises": 5,
+          "slug": "workout_19_full_body_challenge",
+          "exercises": [
+            {
+              "name": "Burpees",
+              "sets": 4,
+              "reps": 8,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Push-Ups",
+              "sets": 4,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Bodyweight Squats",
+              "sets": 4,
+              "reps": 12,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Lateral Lunges",
+              "sets": 4,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plank Hold",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " Endurance Challenge",
+          "imageUrl": "https://barbend.com/wp-content/uploads/2021/06/Barbend.com-Featured-Image-Calisthenics-Pull-ups.jpg",
+          "numberOfExercises": 5,
+          "slug": "workout_20_endurance_challenge",
+          "exercises": [
+            {
+              "name": "Mountain Climbers",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Push-Up to Side Plank",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Lunges (alternating)",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Plank Jacks",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Jumping Jacks",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        {
+          "title": " Full Body Wrap-Up",
+          "imageUrl": "https://barbend.com/wp-content/uploads/2021/06/Barbend.com-Featured-Image-Calisthenics-Pull-ups.jpg",
+          "numberOfExercises": 5,
+          "slug": "workout_21_full_body_wrap_up",
+          "exercises": [
+            {
+              "name": "Burpees",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Push-Ups",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "httpshttps://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Bodyweight Squats",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+              "name": "Lateral Lunges",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": ""
+            },
+            {
+              "name": "Plank Hold",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "14-Day Abs Challenge",
+      "focusPart": "Abs",
+      "description": "A focused program to strengthen and define your abdominal muscles over 14 days.",
+      "numberOfDays": 14,
+      "slug": "14_day_abs_challenge",
+      "levelOfDifficulty": "Intermediate",
+      "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+      "workouts": [
+        {
+          "title": "Workout 1: Core Foundation",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_1_core_foundation",
+          "exercises": [
+            {
+              "name": "Plank",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Dead Bug",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Bird Dog",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Russian Twists",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Mountain Climbers",
+              "sets": 3,
+              "reps": 20,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 2: Core Strength",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_2_core_strength",
+          "exercises": [
+            {
+              "name": "Plank Jacks",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Leg Raises",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Side Plank",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Flutter Kicks",
+              "sets": 3,
+              "reps": 20,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 3: Oblique Focus",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_3_oblique_focus",
+          "exercises": [
+            {
+              "name": "Side Plank Dips",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Heel Touches",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Russian Twists with Legs Elevated",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Plank to Side Plank",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Windshield Wipers",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 4: Endurance Core",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_4_endurance_core",
+          "exercises": [
+            {
+              "name": "Burpee",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "V-Ups",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "High Knees",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Toe Touches",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Reverse Crunches",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 5: Core Stability",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_5_core_stability",
+          "exercises": [
+            {
+              "name": "Single Leg Plank",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Plank Up-Downs",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Hollow Body Hold",
+              "sets": 3,
+              "reps": 20,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "T-Pushups",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Side Crunches",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 6: Dynamic Core",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_6_dynamic_core",
+          "exercises": [
+            {
+              "name": "Jumping Jacks",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Scissor Kicks",
+              "sets": 3,
+              "reps": 20,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Pike Crunches",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Side Plank with Leg Lift",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Lying Leg Lifts",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 7: Ab Blasting",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_7_ab_blasting",
+          "exercises": [
+            {
+              "name": "Crunches",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Plank Shoulder Taps",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Cross-Body Mountain Climbers",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Oblique V-Ups",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Plank with Leg Lift",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 8: Final Core Blast",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_8_final_core_blast",
+          "exercises": [
+            {
+              "name": "Burpees",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Plank Jacks",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Toe Touches",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Russian Twists",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Leg Raises",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 1: Core Activation",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_1_core_activation",
+          "exercises": [
+            {
+              "name": "Crunches",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Leg Raises",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Mountain Climbers",
+              "sets": 3,
+              "reps": 20,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Plank Hold",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 2: Lower Abs Burn",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_2_lower_abs_burn",
+          "exercises": [
+            {
+              "name": "Reverse Crunches",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Scissor Kicks",
+              "sets": 3,
+              "reps": 20,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Leg Raises",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Plank Jacks",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Hollow Body Hold",
+              "sets": 3,
+              "reps": 20,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 3: Oblique Sculpt",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_3_oblique_sculpt",
+          "exercises": [
+            {
+              "name": "Russian Twists",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Side Planks",
+              "sets": 3,
+              "reps": 30,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Oblique V-Ups",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Cross-Body Mountain Climbers",
+              "sets": 3,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Side Plank with Leg Lift",
+              "sets": 3,
+              "reps": 10,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 5: Advanced Core Crusher",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_5_advanced_core_crusher",
+          "exercises": [
+            {
+              "name": "V-Ups",
+              "sets": 4,
+              "reps": 15,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Hollow Body Rocks",
+              "sets": 3,
+              "reps": 12,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Plank to Side Plank Rotations",
+              "sets": 3,
+              "reps": 10 ,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Toe Touches",
+              "sets": 4,
+              "reps": 20,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Plank Walkouts",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        },
+        {
+          "title": "Workout 6: Core Endurance Beast",
+          "imageUrl": "https://yt3.googleusercontent.com/gyvb11TVLB0KFI_MqHpcEVruWOIeJW6bZ5m0-Sx0hoxg6l5fkeJgR0w5fDgqr15Ug69FU6VCQg=s900-c-k-c0x00ffffff-no-rj",
+          "numberOfExercises": 5,
+          "slug": "workout_6_core_endurance_beast",
+          "exercises": [
+            {
+              "name": "Dragon Flags",
+              "sets": 3,
+              "reps": 8,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "L-Sit Hold (on the floor)",
+              "sets": 3,
+              "reps": "15-30 seconds",
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Single-Leg Plank Raises",
+              "sets": 3,
+              "reps": 10 ,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Bicycle Crunches (Slow Tempo)",
+              "sets": 3,
+              "reps": 12 ,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            },
+            {
+              "name": "Plank to Push-Up Hold",
+              "sets": 3,
+              "reps": 5,
+              "imageUrl": "https://optim.tildacdn.com/tild3937-3231-4661-a232-313531626536/-/resize/640x/-/format/webp/993_4.png"
+            }
+          ]
+        }
+        
+      ]
+    },
+    {
+      "title": "Arm Strength and Definition",
+      "focusPart": "Arms",
+      "description": "A 14-day program focused on building arm strength and definition through bodyweight and equipment-assisted exercises.",
+      "numberOfDays": 14,
+      "slug": "arm_strength_definition",
+      "levelOfDifficulty": "Intermediate",
+      "imageUrl": "https://thumb.tildacdn.com/tild3532-6366-4564-a332-646636323965/-/resize/800x/-/format/webp/ULTIMATE_SUMMER_PHYS.jpg",
+      "workouts": [
+        {
+          "title": "Day 1 - Bicep Blast",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_1_bicep_blast",
+          "exercises": [
+            { "name": "Bicep Curls", "sets": 3, "reps": 12, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Hammer Curls", "sets": 3, "reps": 10, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Concentration Curls", "sets": 3, "reps": 8, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 2 - Tricep Power",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_2_tricep_power",
+          "exercises": [
+            { "name": "Tricep Dips", "sets": 3, "reps": 12, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Close Grip Push-Ups", "sets": 3, "reps": 10, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Overhead Tricep Extension", "sets": 3, "reps": 8, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 3 - Arm Endurance",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_3_arm_endurance",
+          "exercises": [
+            { "name": "Push-Ups", "sets": 3, "reps": 15, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Resistance Band Bicep Curls", "sets": 3, "reps": 12, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Tricep Kickbacks", "sets": 3, "reps": 10, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 4 - Shoulder Stability",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_4_shoulder_stability",
+          "exercises": [
+            { "name": "Shoulder Taps", "sets": 3, "reps": 20, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Arm Circles", "sets": 3, "reps": 15, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Lateral Raises", "sets": 3, "reps": 10, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 5 - Wrist and Forearm Strength",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_5_wrist_forearm_strength",
+          "exercises": [
+            { "name": "Wrist Curls", "sets": 3, "reps": 12, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Reverse Wrist Curls", "sets": 3, "reps": 12, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Farmer's Carry", "sets": 3, "reps": 30, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 6 - Tricep Burnout",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_6_tricep_burnout",
+          "exercises": [
+            { "name": "Diamond Push-Ups", "sets": 3, "reps": 10, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Bench Dips", "sets": 3, "reps": 12, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Overhead Dumbbell Extension", "sets": 3, "reps": 8, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 7 - Active Rest (Light Stretching and Mobility)",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 1,
+          "slug": "workout_7_active_rest",
+          "exercises": [
+            { "name": "Arm Stretching Routine", "sets": 1, "reps": 15, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 8 - High Reps for Endurance",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_8_high_reps_endurance",
+          "exercises": [
+            { "name": "Light Weight Bicep Curls", "sets": 3, "reps": 20, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Light Weight Tricep Kickbacks", "sets": 3, "reps": 20, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Resistance Band Tricep Pushdown", "sets": 3, "reps": 15, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 9 - Core and Arm Combo",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_9_core_arm_combo",
+          "exercises": [
+            { "name": "Plank with Arm Raise", "sets": 3, "reps": 10, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Mountain Climbers", "sets": 3, "reps": 30, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Push-Up to Shoulder Tap", "sets": 3, "reps": 10, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 10 - Full Arm Power",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_10_full_arm_power",
+          "exercises": [
+            { "name": "Preacher Curl", "sets": 3, "reps": 12, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Tricep Extension", "sets": 3, "reps": 10, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Close Grip Bench Press", "sets": 3, "reps": 8, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 11 - Isometric Hold",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_11_isometric_hold",
+          "exercises": [
+            { "name": "Bicep Curl Hold", "sets": 3, "reps": 30, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Tricep Dip Hold", "sets": 3, "reps": 30, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Plank Hold", "sets": 3, "reps": 45, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 12 - Alternating Supersets",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_12_alternating_supersets",
+          "exercises": [
+            { "name": "Bicep Curl to Overhead Press", "sets": 3, "reps": 12, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Tricep Push-Up", "sets": 3, "reps": 10, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Resistance Band Row", "sets": 3, "reps": 15, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 13 - Weighted Challenge",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_13_weighted_challenge",
+          "exercises": [
+            { "name": "Weighted Bicep Curls", "sets": 3, "reps": 10, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Weighted Tricep Extension", "sets": 3, "reps": 8, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Weighted Dips", "sets": 3, "reps": 6, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        },
+        {
+          "title": "Day 14 - Recovery & Stretch",
+          "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "numberOfExercises": 3,
+          "slug": "workout_14_recovery_stretch",
+          "exercises": [
+            { "name": "Foam Rolling Arms", "sets": 1, "reps": 5, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Static Arm Stretch", "sets": 1, "reps": 5, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" },
+            { "name": "Dynamic Arm Circles", "sets": 1, "reps": 10, "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mk3yo82_awhlpLR_T5x0eMKzC1SOJc2ow_mme15RPLFg=s900-c-k-c0x00ffffff-no-rj" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "14-Day Street Workout Program",
+      "focusPart": "Full Body",
+      "description": "A 14-day street workout program focusing on bodyweight exercises to build strength and endurance.",
+      "numberOfDays": 14,
+      "slug": "14_day_street_workout",
+      "levelOfDifficulty": "Intermediate",
+      "imageUrl": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?cs=srgb&dl=pexels-victorfreitas-841130.jpg&fm=jpg",
+      "workouts": [
+        {
+          "title": "Day 1 - Pull-Up Focus",
+          "slug": "day_1_pull_up_focus",
+          "numberOfExercises": 3,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Pull-Ups", "sets": 4, "reps": 8, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Chin-Ups", "sets": 3, "reps": 8, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Negative Pull-Ups", "sets": 3, "reps": 5, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 2 - Dips and Core",
+          "slug": "day_2_dips_and_core",
+          "numberOfExercises": 3,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Dips", "sets": 4, "reps": 10, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Leg Raises", "sets": 3, "reps": 12, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Plank", "sets": 3, "duration": "30 seconds", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 3 - Full Body Strength",
+          "slug": "day_3_full_body_strength",
+          "numberOfExercises": 3,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Push-Ups", "sets": 4, "reps": 12, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Bodyweight Squats", "sets": 4, "reps": 15, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Burpees", "sets": 3, "reps": 10, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 4 - Active Recovery",
+          "slug": "day_4_active_recovery",
+          "numberOfExercises": 2,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Light Jogging", "duration": "20 minutes", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Stretching", "duration": "15 minutes", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 5 - Strength and Endurance",
+          "slug": "day_5_strength_and_endurance",
+          "numberOfExercises": 3,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Wide Grip Pull-Ups", "sets": 4, "reps": 6, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Dips", "sets": 4, "reps": 10, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Mountain Climbers", "sets": 3, "reps": 20, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 6 - Core Stability",
+          "slug": "day_6_core_stability",
+          "numberOfExercises": 3,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Plank to Push-Up", "sets": 3, "reps": 10, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Side Plank", "sets": 3, "duration": "20 seconds each side", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Hanging Leg Raises", "sets": 3, "reps": 8, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 7 - Cardio and Conditioning",
+          "slug": "day_7_cardio_and_conditioning",
+          "numberOfExercises": 3,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Jump Rope", "duration": "10 minutes", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "High Knees", "sets": 3, "duration": "30 seconds", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Jumping Jacks", "sets": 3, "duration": "30 seconds", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 8 - Upper Body Focus",
+          "slug": "day_8_upper_body_focus",
+          "numberOfExercises": 3,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Diamond Push-Ups", "sets": 4, "reps": 8, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Incline Pull-Ups", "sets": 3, "reps": 10, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Bench Dips", "sets": 3, "reps": 12, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 9 - Lower Body and Core",
+          "slug": "day_9_lower_body_and_core",
+          "numberOfExercises": 3,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Pistol Squats (Assisted)", "sets": 3, "reps": 5, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Calf Raises", "sets": 4, "reps": 15, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Russian Twists", "sets": 3, "reps": 15, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 10 - Endurance Circuit",
+          "slug": "day_10_endurance_circuit",
+          "numberOfExercises": 4,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Pull-Ups", "sets": 3, "reps": 5, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Burpees", "sets": 3, "reps": 10, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Dips", "sets": 3, "reps": 8, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Plank", "sets": 3, "duration": "30 seconds", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 11 - Cardio Intervals",
+          "slug": "day_11_cardio_intervals",
+          "numberOfExercises": 3,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Sprints", "sets": 5, "duration": "20 seconds", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Rest", "sets": 5, "duration": "40 seconds", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Dynamic Stretching", "duration": "10 minutes", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 12 - Full Body Integration",
+          "slug": "day_12_full_body_integration",
+          "numberOfExercises": 4,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Push-Ups", "sets": 3, "reps": 15, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Pull-Ups", "sets": 3, "reps": 8, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Lunges", "sets": 3, "reps": 12, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Plank Jacks", "sets": 3, "reps": 10, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 13 - Active Recovery",
+          "slug": "day_13_active_recovery",
+          "numberOfExercises": 2,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Light Jogging", "duration": "15 minutes", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Yoga/Stretching", "duration": "20 minutes", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        },
+        {
+          "title": "Day 14 - Final Challenge",
+          "slug": "day_14_final_challenge",
+          "numberOfExercises": 4,
+          "imageUrl": "https://thumbs.dreamstime.com/b/closeup-portrait-muscular-man-workout-barbell-gym-brutal-bodybuilder-athletic-six-pack-perfect-abs-shoulders-55122231.jpg",
+          "exercises": [
+            { "name": "Pull-Ups", "sets": 4, "reps": "Max", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Dips", "sets": 4, "reps": "Max", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Burpees", "sets": 4, "reps": 10, "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" },
+            { "name": "Cooldown Stretch", "duration": "10 minutes", "imageUrl": "https://play-lh.googleusercontent.com/8Fz8qR-yRAy1y8Wb-MTgVpM3Uzf1DTRMzNhgCHaxrjitmRn7gEeKem-1DGZboiuZHFUP" }
+          ]
+        }
+      ]      
+    }
+  ]
+}
